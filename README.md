@@ -7,3 +7,4 @@ For healthcare access, DocHub offers an intelligent Appointment Scheduling Syste
 Recognizing the growing need for remote care, the platform includes a secure Video Consultation feature with end-to-end encryption, enabling patients to connect with healthcare providers from anywhere while ensuring HIPAA-compliant privacy protection for all virtual visits.
 
 By integrating these smart healthcare solutions into a single, user-friendly interface, DocHub bridges the gap between patients and providers while maintaining rigorous data security standards. The system's mobile-responsive design ensures accessibility across devices, making quality healthcare management available to users whenever and wherever they need it - ultimately creating a more efficient, transparent and patient-centered healthcare experience.
+# DocHub
